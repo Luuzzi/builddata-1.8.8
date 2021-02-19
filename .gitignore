@@ -1,0 +1,15 @@
+build.xml
+
+target/
+dependency-reduced-pom.xml
+
+build/
+dist/
+manifest.mf
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+*.log*
